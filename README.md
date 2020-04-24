@@ -2,6 +2,10 @@
 
 Generate boilerplate for other starters.
 
+## Prerequisites
+
+- npm
+
 ## Usage
 
 ```sh
