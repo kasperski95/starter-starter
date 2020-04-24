@@ -22,6 +22,7 @@ export async function main({ projectName }: IParameters) {
     new ProjectFile("", ".gitignore").generate(),
     new ProjectFile("", ".npmrc").generate(),
     new ProjectFile("", "package.json").generate(),
+    new ProjectFile("", "README.md").generate(),
     new ProjectFile("", "tsconfig.json").generate(),
     new ProjectFile("src", "index.ts").generate(),
     new ProjectFile("src", "main.ts").generate(),
