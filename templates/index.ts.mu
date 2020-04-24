@@ -1,5 +1,3 @@
-#!/usr/bin/env node
-
 import "reflect-metadata";
 import { main } from "./main";
 import { options } from "yargs";

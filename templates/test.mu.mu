@@ -1,0 +1,3 @@
+{{=<% %>=}}
+projectName.kebab: {{projectName.kebab}}
+<%={{ }}=%>
